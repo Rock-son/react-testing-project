@@ -1,0 +1,17 @@
+// for eslint-prettier to format on save - has to be on the root of the project
+{
+	"search.usePCRE2": true,
+	"eslint.alwaysShowStatus": true,
+	"eslint.autoFixOnSave": true,
+	"editor.formatOnSave": true,
+	"prettier.eslintIntegration": true,
+	"prettier.ignorePath": ".prettierignore"
+}
+
+
+/*
+// Enable per-language
+"[javascript]": {
+    "editor.formatOnSave": true
+}
+*/
